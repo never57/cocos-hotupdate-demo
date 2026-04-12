@@ -1,0 +1,5 @@
+{
+  "packageVersion": "1.0.0",
+  "remoteManifestUrl": "https://raw.githubusercontent.com/never57/cocos-hotupdate-demo/main/hotupdate/project.manifest",
+  "remoteVersionUrl": "https://raw.githubusercontent.com/never57/cocos-hotupdate-demo/main/hotupdate/version.manifest"
+}
